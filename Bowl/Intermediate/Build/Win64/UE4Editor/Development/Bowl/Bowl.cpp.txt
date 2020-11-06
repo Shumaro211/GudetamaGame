@@ -1,0 +1,2 @@
+C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\Development\Bowl\Definitions.Bowl.h
+C:\Users\Particular\Documents\Unreal Projects\Bowl\Source\Bowl\Bowl.h

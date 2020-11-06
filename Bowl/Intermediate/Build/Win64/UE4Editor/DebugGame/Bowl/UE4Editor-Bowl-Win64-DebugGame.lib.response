@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Bowl-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\BowlEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\TP_2DSideScrollerCharacter.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\TP_2DSideScrollerGameMode.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\Bowl.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\BowlCharacter.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\BowlGameMode.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\Bowl.init.gen.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\BowlCharacter.gen.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\BowlGameMode.gen.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\TP_2DSideScrollerCharacter.gen.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\TP_2DSideScrollerGameMode.gen.cpp.obj"
+"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\Default.rc2.res"
+/OUT:"C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\UE4Editor-Bowl-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_Bowl

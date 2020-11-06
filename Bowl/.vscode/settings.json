@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Particular/Documents/Unreal Projects/Bowl/.vscode": true,
+		"C:/Users/Particular/Documents/Unreal Projects/Bowl/Content": true,
+		"C:/Users/Particular/Documents/Unreal Projects/Bowl/DerivedDataCache": true,
+		"C:/Users/Particular/Documents/Unreal Projects/Bowl/Intermediate": true,
+		"C:/Users/Particular/Documents/Unreal Projects/Bowl/Saved": true
+	}
+}

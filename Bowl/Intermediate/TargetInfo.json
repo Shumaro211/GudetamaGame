@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bowl",
+			"Path": "C:\\Users\\Particular\\Documents\\Unreal Projects\\Bowl\\Source\\Bowl.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BowlEditor",
+			"Path": "C:\\Users\\Particular\\Documents\\Unreal Projects\\Bowl\\Source\\BowlEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

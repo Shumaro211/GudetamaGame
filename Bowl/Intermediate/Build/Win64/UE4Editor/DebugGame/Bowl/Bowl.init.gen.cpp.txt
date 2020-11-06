@@ -1,0 +1,3 @@
+C:\Users\Particular\Documents\Unreal Projects\Bowl\Intermediate\Build\Win64\UE4Editor\DebugGame\Bowl\Definitions.Bowl.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
